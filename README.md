@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on:<br><br>maintaining and evolving scalable web applications and RESTful APIs at FÊNIX.COM.<br><br>🌱 I’m currently learning:<br><br>Clean Architecture, SQL Query Optimization, and CI/CD pipelines.<br><br>👯 I’m looking to collaborate on:<br><br>Node.js Open Source projects or developer productivity tools.<br><br>💬 Ask me about:<br><br>Backend development, Database modeling, complex SQL queries, and TypeScript.<br><br>⚡ Fun fact:<br><br>I turn coffee into efficient SQL queries. ☕
+🔭 I’m currently working on:<br><br>maintaining and evolving scalable web applications and RESTful APIs at FÊNIX.COM.BR<br><br>🌱 I’m currently learning:<br><br>Clean Architecture, SQL Query Optimization, and CI/CD pipelines.<br><br>👯 I’m looking to collaborate on:<br><br>Node.js Open Source projects or developer productivity tools.<br><br>💬 Ask me about:<br><br>Backend development, Database modeling, complex SQL queries, and TypeScript.<br><br>⚡ Fun fact:<br><br>I turn coffee into efficient SQL queries. ☕
 
 
 ## 🌐 Socials:
